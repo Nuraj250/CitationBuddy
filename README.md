@@ -1,6 +1,6 @@
 # CitationBuddy
 
-![CitationBuddy Logo](path_to_your_logo.png) <!-- Replace with the actual path to your logo -->
+<!--![CitationBuddy Logo](path_to_your_logo.png)  Replace with the actual path to your logo -->
 
 ## About
 
