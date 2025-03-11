@@ -16,7 +16,7 @@ CitationBuddy is a browser extension that enables users to easily generate citat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CitationBuddy.git
+   git clone https://github.com/Nuraj250/CitationBuddy.git
    cd CitationBuddy
    ```
 
